@@ -41,7 +41,7 @@ define( 'DASHBOARD_COLUMNS_DIR_URL', plugin_dir_url( __FILE__ ) );
 define( 'DASHBOARD_COLUMNS_DIR_PATH', plugin_dir_path( __FILE__ ) );
 
 define( 'DASHBOARD_COLUMNS_MIN_PHP_VERSION', '7.4' );
-define( 'DASHBOARD_COLUMNS_REC_PHP_VERSION', '8.0' );
+define( 'DASHBOARD_COLUMNS_REC_PHP_VERSION', '8.4' );
 
 
 

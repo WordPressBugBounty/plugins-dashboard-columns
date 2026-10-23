@@ -4,7 +4,7 @@ Contributors:      PolygonThemes, EusebiuOprinoiu
 Tags:              dashboard columns, screen options, dashboard, columns, widget, admin
 Stable tag:        trunk
 Requires PHP:      7.4
-Tested up to:      6.3
+Tested up to:      6.9
 Requires at least: 5.8
 License:           GPLv3 or later
 License URI:       https://choosealicense.com/licenses/gpl-3.0
